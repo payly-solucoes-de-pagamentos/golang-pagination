@@ -1,4 +1,4 @@
-module github.com/raizen/golang-pagination
+module github.com/payly-solucoes-de-pagamentos/golang-pagination
 
 go 1.19
 
